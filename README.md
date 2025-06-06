@@ -2,15 +2,6 @@
 
 A full-featured Gym Management Web Application built with the MERN stack (MongoDB, Express.js, React.js, Node.js), enabling users to manage memberships, workouts, schedules, and trainers through a modern, responsive interface.
 
-## 📋 Table of Contents
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Authors](#-authors)
-
 ## ✨ Features
 - 🏋️‍♂️ Member Management
 - 📅 Workout Scheduling
