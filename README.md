@@ -10,7 +10,7 @@ A full-featured Gym Management Web Application built with the MERN stack (MongoD
 - 🔐 User Authentication
 - 📱 Responsive Design
 
-## 🛠 Tech Stack 
+## 🛠 Tech Stack  
 - **Frontend:** 
   - React.js
   - Vite
