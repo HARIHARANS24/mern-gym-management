@@ -6,7 +6,7 @@ A full-featured Gym Management Web Application built with the MERN stack (MongoD
 - 🏋️‍♂️ Member Management
 - 📅 Workout Scheduling
 - 💪 Trainer Management
-- 📊 Membership Tracking
+- 📊 Membership Tracking 
 - 🔐 User Authentication
 - 📱 Responsive Design
 
