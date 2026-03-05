@@ -27,49 +27,38 @@ A full-featured Gym Management Web Application built with the MERN stack (MongoD
 
 ## 📁 Project Structure
 ```
-mern-gym-management/
-├── 📂 frontend/
-│   ├── 📂 src/
-│   │   ├── 📂 components/
-│   │   │   ├── 📄 BMICalculator.jsx
-│   │   │   ├── 📄 Contact.jsx
-│   │   │   ├── 📄 Footer.jsx
-│   │   │   ├── 📄 Gallery.jsx
-│   │   │   ├── 📄 Hero.jsx
-│   │   │   ├── 📄 Navbar.jsx
-│   │   │   ├── 📄 Pricing.jsx
-│   │   │   └── 📄 WorkoutSessions.jsx
-│   │   ├── 📄 App.jsx
-│   │   ├── 📄 App.css
-│   │   └── 📄 main.jsx
-│   │
-│   ├── 📂 public/
-│   │   ├── 📄 bmi.jpg
-│   │   ├── 📄 contact.jpg
-│   │   ├── 📄 img1.webp
-│   │   ├── 📄 img2.jpg
-│   │   ├── 📄 img3.jpg
-│   │   ├── 📄 img4.jpg
-│   │   ├── 📄 img5.jpg
-│   │   ├── 📄 img6.jpg
-│   │   ├── 📄 img7.jpg
-│   │   ├── 📄 img8.jpg
-│   │   ├── 📄 pricing.jpg
-│   │   └── 📄 vite.svg
-│   │
-│   ├── 📄 .eslintrc.cjs
-│   ├── 📄 index.html
-│   ├── 📄 package.json
-│   ├── 📄 package-lock.json
-│   └── 📄 vite.config.js
-│
-├── 📂 backend/
-│   ├── 📂 utils/
-│   ├── 📄 app.js
-│   ├── 📄 config.env
-│   └── 📄 package.json
-│
-└── 📄 README.md
+Directory structure:
+└── hariharans24-mern-gym-management/
+    ├── README.md
+    ├── LICENSE
+    ├── backend/
+    │   ├── app.js
+    │   ├── config.env
+    │   ├── package-lock.json
+    │   ├── package.json
+    │   └── utils/
+    │       └── sendEmail.js
+    └── frontend/
+        ├── README.md
+        ├── index.html
+        ├── package-lock.json
+        ├── package.json
+        ├── vite.config.js
+        ├── public/
+        │   └── img1.webp
+        └── src/
+            ├── App.css
+            ├── App.jsx
+            ├── main.jsx
+            └── components/
+                ├── BMICalculator.jsx
+                ├── Contact.jsx
+                ├── Footer.jsx
+                ├── Gallery.jsx
+                ├── Hero.jsx
+                ├── Navbar.jsx
+                ├── Pricing.jsx
+                └── WorkoutSessions.jsx
 ```
 
 ### Frontend Structure Details
